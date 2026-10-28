@@ -1,0 +1,86 @@
+ABLATION STUDY - TRUCK + DRONE HEURISTIC
+===========================================================================
+
+FULL = codul original, fara nicio modificare.
+
+NO_ECONOMIC_FILTER:
+  Payload: ACTIV
+  Autonomie: ACTIVA
+  Filtru economic: ELIMINAT
+
+NO_ENDURANCE_CONSTRAINT:
+  Payload: ACTIV
+  Autonomie: ELIMINATA
+  Filtru economic: ACTIV
+
+NO_PAYLOAD_CONSTRAINT:
+  Payload: ELIMINAT
+  Autonomie: ACTIVA
+  Filtru economic: ACTIV
+
+===========================================================================
+
+REZUMAT PE VARIANTE
+
+FULL
+  Scenarii: 36
+  Cost total mediu: 1989.9269
+  Gain mediu: 4.7444%
+  Gain median: 5.1200%
+  Gain std: 3.4618
+  Gain minim: 0.1800%
+  Gain maxim: 11.4500%
+  Misiuni drona medii: 19.2222
+
+NO_ECONOMIC_FILTER
+  Scenarii: 36
+  Cost total mediu: 2231.1437
+  Gain mediu: -6.8017%
+  Gain median: -4.1200%
+  Gain std: 8.2145
+  Gain minim: -30.8100%
+  Gain maxim: 5.0700%
+  Misiuni drona medii: 58.3333
+
+NO_ENDURANCE_CONSTRAINT
+  Scenarii: 36
+  Cost total mediu: 1914.5698
+  Gain mediu: 8.3525%
+  Gain median: 7.9900%
+  Gain std: 2.6970
+  Gain minim: 4.1700%
+  Gain maxim: 13.5800%
+  Misiuni drona medii: 29.5000
+
+NO_PAYLOAD_CONSTRAINT
+  Scenarii: 36
+  Cost total mediu: 1929.2246
+  Gain mediu: 7.6500%
+  Gain median: 7.9600%
+  Gain std: 5.8665
+  Gain minim: 0.2800%
+  Gain maxim: 20.4900%
+  Misiuni drona medii: 28.0833
+
+===========================================================================
+
+IMPACT MEDIU FATA DE FULL
+
+NO_ECONOMIC_FILTER
+  Delta cost vs FULL: 241.2168
+  Delta gain vs FULL: -11.5461 puncte procentuale
+  Delta misiuni vs FULL: 39.1111
+
+NO_ENDURANCE_CONSTRAINT
+  Delta cost vs FULL: -75.3571
+  Delta gain vs FULL: 3.6081 puncte procentuale
+  Delta misiuni vs FULL: 10.2778
+
+NO_PAYLOAD_CONSTRAINT
+  Delta cost vs FULL: -60.7023
+  Delta gain vs FULL: 2.9056 puncte procentuale
+  Delta misiuni vs FULL: 8.8611
+
+===========================================================================
+
+Timp total rulare ablation: 0.3936 secunde

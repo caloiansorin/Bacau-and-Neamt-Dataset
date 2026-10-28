@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Google Distance Matrix data: not redistributable (see README)
+data/matrice_distante.xlsx

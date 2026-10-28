@@ -1,0 +1,383 @@
+Parametri: SL=SR=1; alpha=2; AD=10 km; Q_max=3 kg
+Cost TSP initial Camion: 2089.05 km
+
+--- Greutati generate (cereri clienti, kg) ---
+Nod 1 (DEPOZIT): 0.00 kg
+Nod 2: 3.20 kg
+Nod 3: 0.13 kg
+Nod 4: 1.38 kg
+Nod 5: 1.12 kg
+Nod 6: 3.68 kg
+Nod 7: 3.38 kg
+Nod 8: 4.46 kg
+Nod 9: 0.43 kg
+Nod 10: 2.11 kg
+Nod 11: 0.15 kg
+Nod 12: 1.09 kg
+Nod 13: 2.53 kg
+Nod 14: 0.13 kg
+Nod 15: 0.99 kg
+Nod 16: 3.25 kg
+Nod 17: 2.72 kg
+Nod 18: 1.10 kg
+Nod 19: 2.95 kg
+Nod 20: 4.05 kg
+Nod 21: 0.03 kg
+Nod 22: 4.03 kg
+Nod 23: 3.49 kg
+Nod 24: 1.70 kg
+Nod 25: 0.78 kg
+Nod 26: 4.79 kg
+Nod 27: 1.68 kg
+Nod 28: 0.46 kg
+Nod 29: 0.48 kg
+Nod 30: 4.24 kg
+Nod 31: 3.02 kg
+Nod 32: 4.04 kg
+Nod 33: 3.65 kg
+Nod 34: 2.68 kg
+Nod 35: 4.87 kg
+Nod 36: 1.89 kg
+Nod 37: 2.76 kg
+Nod 38: 4.15 kg
+Nod 39: 3.09 kg
+Nod 40: 4.31 kg
+Nod 41: 2.89 kg
+Nod 42: 3.52 kg
+Nod 43: 0.23 kg
+Nod 44: 1.14 kg
+Nod 45: 1.45 kg
+Nod 46: 0.40 kg
+Nod 47: 1.16 kg
+Nod 48: 0.51 kg
+Nod 49: 1.39 kg
+Nod 50: 3.18 kg
+Nod 51: 1.82 kg
+Nod 52: 1.85 kg
+Nod 53: 1.05 kg
+Nod 54: 1.33 kg
+Nod 55: 4.68 kg
+Nod 56: 3.24 kg
+Nod 57: 3.05 kg
+Nod 58: 0.86 kg
+Nod 59: 3.65 kg
+Nod 60: 0.82 kg
+Nod 61: 1.90 kg
+Nod 62: 4.95 kg
+Nod 63: 3.20 kg
+Nod 64: 2.78 kg
+Nod 65: 3.42 kg
+Nod 66: 4.21 kg
+Nod 67: 3.88 kg
+Nod 68: 1.15 kg
+Nod 69: 0.16 kg
+Nod 70: 1.58 kg
+Nod 71: 1.34 kg
+Nod 72: 1.05 kg
+Nod 73: 4.71 kg
+Nod 74: 4.38 kg
+Nod 75: 1.57 kg
+Nod 76: 3.28 kg
+Nod 77: 1.98 kg
+Nod 78: 4.57 kg
+Nod 79: 2.29 kg
+Nod 80: 1.32 kg
+Nod 81: 1.23 kg
+Nod 82: 2.81 kg
+Nod 83: 1.31 kg
+Nod 84: 2.92 kg
+Nod 85: 4.49 kg
+Nod 86: 2.00 kg
+Nod 87: 1.10 kg
+Nod 88: 4.99 kg
+Nod 89: 2.55 kg
+Nod 90: 0.45 kg
+Nod 91: 0.24 kg
+Nod 92: 0.55 kg
+Nod 93: 3.14 kg
+Nod 94: 3.96 kg
+Nod 95: 2.11 kg
+Nod 96: 0.32 kg
+Nod 97: 1.91 kg
+Nod 98: 4.98 kg
+Nod 99: 2.65 kg
+Nod 100: 4.86 kg
+Nod 101: 4.30 kg
+Nod 102: 0.06 kg
+Nod 103: 3.60 kg
+Nod 104: 3.41 kg
+Nod 105: 2.68 kg
+Nod 106: 1.33 kg
+Nod 107: 3.20 kg
+Nod 108: 0.56 kg
+Nod 109: 2.17 kg
+Nod 110: 2.27 kg
+Nod 111: 4.77 kg
+Nod 112: 4.38 kg
+Nod 113: 1.32 kg
+Nod 114: 2.50 kg
+Nod 115: 0.89 kg
+Nod 116: 4.56 kg
+Nod 117: 4.35 kg
+Nod 118: 1.49 kg
+Nod 119: 3.19 kg
+Nod 120: 3.04 kg
+Nod 121: 0.76 kg
+Nod 122: 3.81 kg
+Nod 123: 2.70 kg
+Nod 124: 3.89 kg
+Nod 125: 2.65 kg
+Nod 126: 0.00 kg
+Nod 127: 1.62 kg
+Nod 128: 0.10 kg
+Nod 129: 4.65 kg
+Nod 130: 4.39 kg
+Nod 131: 4.16 kg
+Nod 132: 1.54 kg
+Nod 133: 0.29 kg
+Nod 134: 4.39 kg
+Nod 135: 4.73 kg
+Nod 136: 0.43 kg
+Nod 137: 2.43 kg
+Nod 138: 0.35 kg
+Nod 139: 3.80 kg
+Nod 140: 3.83 kg
+Nod 141: 0.64 kg
+Nod 142: 2.38 kg
+Nod 143: 2.75 kg
+Nod 144: 1.33 kg
+Nod 145: 4.36 kg
+Nod 146: 2.12 kg
+Nod 147: 1.06 kg
+Nod 148: 2.70 kg
+Nod 149: 3.65 kg
+Nod 150: 1.01 kg
+Nod 151: 1.56 kg
+Nod 152: 4.98 kg
+Nod 153: 3.25 kg
+Nod 154: 2.19 kg
+Nod 155: 2.59 kg
+Nod 156: 0.61 kg
+Nod 157: 1.12 kg
+Nod 158: 1.69 kg
+Nod 159: 2.94 kg
+Nod 160: 1.15 kg
+Nod 161: 1.10 kg
+Nod 162: 0.35 kg
+Nod 163: 3.16 kg
+Nod 164: 1.14 kg
+Nod 165: 4.53 kg
+Nod 166: 4.30 kg
+Nod 167: 0.35 kg
+Nod 168: 1.19 kg
+Nod 169: 3.34 kg
+Nod 170: 1.07 kg
+Nod 171: 0.66 kg
+Nod 172: 4.68 kg
+Nod 173: 2.86 kg
+Nod 174: 2.36 kg
+Nod 175: 3.92 kg
+Nod 176: 4.04 kg
+
+--- PASUL 2: Optimizarea Rutei Camionului cu Drone (misiuni simple) ---
+1	[CAMION] 1 -> 53	COST TRUCK: 5.02 km
+2	[CAMION] 53 -> 41	COST TRUCK: 5.71 km
+3	[CAMION] 41 -> 37	COST TRUCK: 6.55 km
+4	[CAMION] 37 -> 71	COST TRUCK: 8.69 km
+5	[CAMION] 71 -> 5	COST TRUCK: 4.42 km
+6	[CAMION] 5 -> 17	COST TRUCK: 7.74 km
+7	[CAMION] 17 -> 114	COST TRUCK: 15.33 km
+8	[CAMION] 114 -> 155	COST TRUCK: 8.63 km
+9	[CAMION] 155 -> 117	COST TRUCK: 12.96 km
+10	[CAMION] 117 -> 150	COST TRUCK: 8.51 km
+11	[CAMION] 150 -> 176	COST TRUCK: 12.75 km
+12	[CAMION] 176 -> 140	COST TRUCK: 8.41 km
+13	[CAMION] 140 -> 121	COST TRUCK: 8.80 km
+14	[CAMION] 121 -> 133	COST TRUCK: 10.65 km
+15	[CAMION] 133 -> 107	COST TRUCK: 13.77 km
+16	[CAMION] 107 -> 120	COST TRUCK: 5.68 km
+17	[CAMION] 120 -> 142	COST TRUCK: 7.99 km
+18	[CAMION] 142 -> 156	COST TRUCK: 9.59 km
+19	[CAMION] 156 -> 130	COST TRUCK: 14.75 km
+20	[CAMION] 130 -> 94	COST TRUCK: 17.73 km
+21	[CAMION] 94 -> 145	COST TRUCK: 17.39 km
+22	[CAMION] 145 -> 100	COST TRUCK: 16.71 km
+23	[CAMION] 100 -> 126	COST TRUCK: 20.51 km
+24	[DRONA SIMPLA] Din 126 -> 160	ZBOR: 7.38 km | MASA: 1.15 kg | COST DRONA: 5.69 km | ECONOMIE NETA: 0.24 km
+25	[CAMION] 126 -> 97	COST TRUCK: 10.53 km
+26	[CAMION] 97 -> 148	COST TRUCK: 6.24 km
+27	[CAMION] 148 -> 110	COST TRUCK: 11.32 km
+28	[CAMION] 110 -> 167	COST TRUCK: 13.84 km
+29	[CAMION] 167 -> 12	COST TRUCK: 13.31 km
+30	[CAMION] 12 -> 66	COST TRUCK: 9.51 km
+31	[CAMION] 66 -> 81	COST TRUCK: 10.75 km
+32	[CAMION] 81 -> 50	COST TRUCK: 7.36 km
+33	[CAMION] 50 -> 93	COST TRUCK: 22.58 km
+34	[CAMION] 93 -> 3	COST TRUCK: 20.05 km
+35	[CAMION] 3 -> 69	COST TRUCK: 12.42 km
+36	[CAMION] 69 -> 10	COST TRUCK: 12.78 km
+37	[CAMION] 10 -> 79	COST TRUCK: 8.97 km
+38	[CAMION] 79 -> 83	COST TRUCK: 7.65 km
+39	[CAMION] 83 -> 14	COST TRUCK: 10.10 km
+40	[CAMION] 14 -> 76	COST TRUCK: 9.14 km
+41	[CAMION] 76 -> 48	COST TRUCK: 6.50 km
+42	[CAMION] 48 -> 15	COST TRUCK: 11.99 km
+43	[CAMION] 15 -> 40	COST TRUCK: 16.25 km
+44	[CAMION] 40 -> 16	COST TRUCK: 8.11 km
+45	[CAMION] 16 -> 87	COST TRUCK: 13.81 km
+46	[CAMION] 87 -> 39	COST TRUCK: 17.70 km
+47	[CAMION] 39 -> 62	COST TRUCK: 15.75 km
+48	[DRONA SIMPLA] Din 62 -> 60	ZBOR: 6.85 km | MASA: 0.82 kg | COST DRONA: 5.43 km | ECONOMIE NETA: 0.01 km
+49	[CAMION] 62 -> 91	COST TRUCK: 13.34 km
+50	[CAMION] 91 -> 75	COST TRUCK: 7.72 km
+51	[CAMION] 75 -> 90	COST TRUCK: 12.40 km
+52	[CAMION] 90 -> 27	COST TRUCK: 8.10 km
+53	[CAMION] 27 -> 23	COST TRUCK: 7.54 km
+54	[CAMION] 23 -> 84	COST TRUCK: 7.39 km
+55	[CAMION] 84 -> 20	COST TRUCK: 16.14 km
+56	[CAMION] 20 -> 2	COST TRUCK: 8.28 km
+57	[CAMION] 2 -> 52	COST TRUCK: 22.86 km
+58	[CAMION] 52 -> 22	COST TRUCK: 15.56 km
+59	[CAMION] 22 -> 18	COST TRUCK: 10.69 km
+60	[CAMION] 18 -> 58	COST TRUCK: 7.08 km
+61	[CAMION] 58 -> 65	COST TRUCK: 8.10 km
+62	[CAMION] 65 -> 7	COST TRUCK: 6.16 km
+63	[CAMION] 7 -> 8	COST TRUCK: 17.73 km
+64	[CAMION] 8 -> 30	COST TRUCK: 24.95 km
+65	[CAMION] 30 -> 6	COST TRUCK: 6.75 km
+66	[CAMION] 6 -> 4	COST TRUCK: 9.00 km
+67	[CAMION] 4 -> 11	COST TRUCK: 3.51 km
+68	[CAMION] 11 -> 9	COST TRUCK: 18.41 km
+69	[CAMION] 9 -> 19	COST TRUCK: 12.81 km
+70	[CAMION] 19 -> 61	COST TRUCK: 6.83 km
+71	[CAMION] 61 -> 35	COST TRUCK: 14.90 km
+72	[CAMION] 35 -> 119	COST TRUCK: 32.87 km
+73	[CAMION] 119 -> 105	COST TRUCK: 14.90 km
+74	[CAMION] 105 -> 106	COST TRUCK: 11.23 km
+75	[CAMION] 106 -> 166	COST TRUCK: 14.85 km
+76	[CAMION] 166 -> 96	COST TRUCK: 5.62 km
+77	[CAMION] 96 -> 165	COST TRUCK: 24.34 km
+78	[CAMION] 165 -> 115	COST TRUCK: 52.05 km
+79	[CAMION] 115 -> 134	COST TRUCK: 25.91 km
+80	[CAMION] 134 -> 109	COST TRUCK: 36.25 km
+81	[CAMION] 109 -> 127	COST TRUCK: 13.81 km
+82	[CAMION] 127 -> 151	COST TRUCK: 18.39 km
+83	[CAMION] 151 -> 136	COST TRUCK: 19.23 km
+84	[CAMION] 136 -> 149	COST TRUCK: 37.65 km
+85	[CAMION] 149 -> 175	COST TRUCK: 14.55 km
+86	[CAMION] 175 -> 99	COST TRUCK: 24.07 km
+87	[CAMION] 99 -> 102	COST TRUCK: 7.83 km
+88	[CAMION] 102 -> 118	COST TRUCK: 14.86 km
+89	[CAMION] 118 -> 132	COST TRUCK: 16.14 km
+90	[CAMION] 132 -> 135	COST TRUCK: 6.70 km
+91	[CAMION] 135 -> 147	COST TRUCK: 11.74 km
+92	[CAMION] 147 -> 98	COST TRUCK: 12.82 km
+93	[CAMION] 98 -> 123	COST TRUCK: 13.44 km
+94	[CAMION] 123 -> 113	COST TRUCK: 5.84 km
+95	[CAMION] 113 -> 153	COST TRUCK: 8.77 km
+96	[CAMION] 153 -> 169	COST TRUCK: 9.45 km
+97	[CAMION] 169 -> 172	COST TRUCK: 13.12 km
+98	[CAMION] 172 -> 146	COST TRUCK: 6.62 km
+99	[CAMION] 146 -> 168	COST TRUCK: 4.86 km
+100	[CAMION] 168 -> 154	COST TRUCK: 12.51 km
+101	[CAMION] 154 -> 124	COST TRUCK: 7.31 km
+102	[CAMION] 124 -> 163	COST TRUCK: 7.81 km
+103	[CAMION] 163 -> 104	COST TRUCK: 16.95 km
+104	[CAMION] 104 -> 174	COST TRUCK: 11.67 km
+105	[CAMION] 174 -> 171	COST TRUCK: 10.01 km
+106	[CAMION] 171 -> 111	COST TRUCK: 9.00 km
+107	[CAMION] 111 -> 131	COST TRUCK: 7.91 km
+108	[CAMION] 131 -> 116	COST TRUCK: 5.03 km
+109	[CAMION] 116 -> 158	COST TRUCK: 5.29 km
+110	[CAMION] 158 -> 164	COST TRUCK: 11.60 km
+111	[CAMION] 164 -> 95	COST TRUCK: 8.53 km
+112	[CAMION] 95 -> 129	COST TRUCK: 7.48 km
+113	[DRONA SIMPLA] Din 129 -> 159	ZBOR: 9.49 km | MASA: 2.94 kg | COST DRONA: 6.74 km | ECONOMIE NETA: 4.73 km
+114	[CAMION] 129 -> 122	COST TRUCK: 13.87 km
+115	[CAMION] 122 -> 108	COST TRUCK: 13.44 km
+116	[CAMION] 108 -> 103	COST TRUCK: 5.74 km
+117	[CAMION] 103 -> 162	COST TRUCK: 7.23 km
+118	[CAMION] 162 -> 144	COST TRUCK: 19.42 km
+119	[CAMION] 144 -> 152	COST TRUCK: 7.49 km
+120	[CAMION] 152 -> 112	COST TRUCK: 7.40 km
+121	[CAMION] 112 -> 143	COST TRUCK: 14.68 km
+122	[CAMION] 143 -> 47	COST TRUCK: 11.11 km
+123	[CAMION] 47 -> 67	COST TRUCK: 7.90 km
+124	[CAMION] 67 -> 57	COST TRUCK: 10.72 km
+125	[CAMION] 57 -> 80	COST TRUCK: 7.48 km
+126	[CAMION] 80 -> 88	COST TRUCK: 6.08 km
+127	[CAMION] 88 -> 70	COST TRUCK: 6.96 km
+128	[CAMION] 70 -> 55	COST TRUCK: 11.15 km
+129	[CAMION] 55 -> 74	COST TRUCK: 6.00 km
+130	[CAMION] 74 -> 173	COST TRUCK: 13.63 km
+131	[CAMION] 173 -> 28	COST TRUCK: 11.89 km
+132	[CAMION] 28 -> 138	COST TRUCK: 10.26 km
+133	[CAMION] 138 -> 139	COST TRUCK: 9.27 km
+134	[CAMION] 139 -> 137	COST TRUCK: 8.46 km
+135	[CAMION] 137 -> 170	COST TRUCK: 7.89 km
+136	[CAMION] 170 -> 125	COST TRUCK: 11.52 km
+137	[CAMION] 125 -> 157	COST TRUCK: 9.80 km
+138	[CAMION] 157 -> 128	COST TRUCK: 8.49 km
+139	[CAMION] 128 -> 161	COST TRUCK: 12.63 km
+140	[CAMION] 161 -> 141	COST TRUCK: 6.52 km
+141	[CAMION] 141 -> 101	COST TRUCK: 10.67 km
+142	[CAMION] 101 -> 33	COST TRUCK: 10.47 km
+143	[CAMION] 33 -> 13	COST TRUCK: 4.96 km
+144	[CAMION] 13 -> 44	COST TRUCK: 11.43 km
+145	[CAMION] 44 -> 78	COST TRUCK: 11.04 km
+146	[CAMION] 78 -> 21	COST TRUCK: 15.64 km
+147	[CAMION] 21 -> 85	COST TRUCK: 10.69 km
+148	[CAMION] 85 -> 36	COST TRUCK: 7.96 km
+149	[CAMION] 36 -> 42	COST TRUCK: 11.92 km
+150	[CAMION] 42 -> 89	COST TRUCK: 15.82 km
+151	[CAMION] 89 -> 63	COST TRUCK: 5.58 km
+152	[CAMION] 63 -> 92	COST TRUCK: 17.81 km
+153	[CAMION] 92 -> 82	COST TRUCK: 11.41 km
+154	[CAMION] 82 -> 59	COST TRUCK: 14.45 km
+155	[CAMION] 59 -> 32	COST TRUCK: 10.22 km
+156	[CAMION] 32 -> 45	COST TRUCK: 18.46 km
+157	[CAMION] 45 -> 25	COST TRUCK: 8.34 km
+158	[CAMION] 25 -> 73	COST TRUCK: 19.21 km
+159	[CAMION] 73 -> 54	COST TRUCK: 14.05 km
+160	[CAMION] 54 -> 68	COST TRUCK: 15.96 km
+161	[CAMION] 68 -> 38	COST TRUCK: 7.63 km
+162	[CAMION] 38 -> 29	COST TRUCK: 10.11 km
+163	[CAMION] 29 -> 34	COST TRUCK: 16.15 km
+164	[CAMION] 34 -> 43	COST TRUCK: 17.86 km
+165	[CAMION] 43 -> 86	COST TRUCK: 14.73 km
+166	[CAMION] 86 -> 26	COST TRUCK: 13.07 km
+167	[CAMION] 26 -> 64	COST TRUCK: 14.89 km
+168	[CAMION] 64 -> 72	COST TRUCK: 12.39 km
+169	[CAMION] 72 -> 24	COST TRUCK: 9.13 km
+170	[CAMION] 24 -> 31	COST TRUCK: 6.18 km
+171	[CAMION] 31 -> 56	COST TRUCK: 4.38 km
+172	[CAMION] 56 -> 77	COST TRUCK: 5.72 km
+173	[DRONA SIMPLA] Din 77 -> 49	ZBOR: 7.63 km | MASA: 1.39 kg | COST DRONA: 5.81 km | ECONOMIE NETA: 0.59 km
+174	[CAMION] 77 -> 51	COST TRUCK: 9.88 km
+175	[CAMION] 51 -> 46	COST TRUCK: 9.51 km
+176	[CAMION] 46 -> 1	COST TRUCK: 4.88 km
+
+--- Rezultate Finale ---
+
+Ruta Camionului (173 noduri):
+1 -> 53 -> 41 -> 37 -> 71 -> 5 -> 17 -> 114 -> 155 -> 117 -> 150 -> 176 -> 140 -> 121 -> 133 -> 107 -> 120 -> 142 -> 156 -> 130 -> 94 -> 145 -> 100 -> 126 -> 97 -> 148 -> 110 -> 167 -> 12 -> 66 -> 81 -> 50 -> 93 -> 3 -> 69 -> 10 -> 79 -> 83 -> 14 -> 76 -> 48 -> 15 -> 40 -> 16 -> 87 -> 39 -> 62 -> 91 -> 75 -> 90 -> 27 -> 23 -> 84 -> 20 -> 2 -> 52 -> 22 -> 18 -> 58 -> 65 -> 7 -> 8 -> 30 -> 6 -> 4 -> 11 -> 9 -> 19 -> 61 -> 35 -> 119 -> 105 -> 106 -> 166 -> 96 -> 165 -> 115 -> 134 -> 109 -> 127 -> 151 -> 136 -> 149 -> 175 -> 99 -> 102 -> 118 -> 132 -> 135 -> 147 -> 98 -> 123 -> 113 -> 153 -> 169 -> 172 -> 146 -> 168 -> 154 -> 124 -> 163 -> 104 -> 174 -> 171 -> 111 -> 131 -> 116 -> 158 -> 164 -> 95 -> 129 -> 122 -> 108 -> 103 -> 162 -> 144 -> 152 -> 112 -> 143 -> 47 -> 67 -> 57 -> 80 -> 88 -> 70 -> 55 -> 74 -> 173 -> 28 -> 138 -> 139 -> 137 -> 170 -> 125 -> 157 -> 128 -> 161 -> 141 -> 101 -> 33 -> 13 -> 44 -> 78 -> 21 -> 85 -> 36 -> 42 -> 89 -> 63 -> 92 -> 82 -> 59 -> 32 -> 45 -> 25 -> 73 -> 54 -> 68 -> 38 -> 29 -> 34 -> 43 -> 86 -> 26 -> 64 -> 72 -> 24 -> 31 -> 56 -> 77 -> 51 -> 46 -> 1
+
+Clienti deserviti de Drona (4): [49, 60, 159, 160]
+Clienti deserviti de Camion (171): [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176]
+
+--- Statistici Performanta ---
+Numar total misiuni drona: 4 (toate SINGLE)
+Cost initial TSP pur: 2089.05 km
+Cost efectiv traseu Camion: 2059.80 km
+Cost total misiuni Drona: 23.67 km
+COST TOTAL SISTEM (Camion + Drona): 2083.47 km
+Distanta totala zbor drona: 31.34 km
+Payload total transportat de drona: 6.30 kg
+ECONOMIE REALA ABSOLUTA: 5.58 km (0.27%)
+
+--- Diagnostic Esecuri Misiune Simpla (candidati j1 evaluati) ---
+Esecuri din cauza payload-ului (> 3 kg): 68
+Esecuri din cauza autonomiei (zbor dus-intors > 10 km): 84
+Esecuri din cauza economiei nete (cost drona >= economie): 19
+
+Timp de executie scenariu: 0.0025 secunde
